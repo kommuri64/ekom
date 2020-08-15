@@ -1,0 +1,30 @@
+<html>
+<head>
+<title>EKOM-MART</title>
+<style>
+table, th, td {
+border:1px solid black;
+border-collapse: collapse;
+}
+</style>
+</head>
+<body style="background-color:powderblue;">
+<hr>
+<a href=""><h1 style="color:red;"><center>EKOM-MART</center></h1></a>
+<hr>
+<h2><center>select category</center></h2>
+<center><a href="https://kommuri64.github.io/resume/RA1711003011185"><img border="0" alt="grocery" src="C:\Users\veerakumar\Pictures\Screenshots\grocery.png" width="300" height="200"></a></center>
+<br>
+<center><a href=""><img border="0" alt="household" src="C:\Users\veerakumar\Pictures\Screenshots\household.png" width="300" height="200"></a></center>
+<br>
+<center><a href=""><img border="0" alt="pharmacy" src="C:\Users\veerakumar\Pictures\Screenshots\pharmacy.png" width="300" height="200"></a></center>
+<br>
+<center><a href=""><img border="0" alt="toys" src="C:\Users\veerakumar\Pictures\Screenshots\toys.png" width="300" height="200"></a></center>
+<br>
+<center><a href=""><img border="0" alt="beauty" src="C:\Users\veerakumar\Pictures\Screenshots\beauty.png" width="300" height="200"></a></center>
+<br>
+<center><a href=""><img border="0" alt="clothing" src="C:\Users\veerakumar\Pictures\Screenshots\clothing.png" width="300" height="200"></a></center>
+
+
+</body>
+</html>
